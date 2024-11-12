@@ -1,0 +1,15 @@
+[workspace]
+resolver = "2"
+members = [
+    "build/lune-lightningcss",
+    "build/lune-minify-html",
+    "build/lune-minify-js",
+    "build/lune-markdown-rs",
+    "build/lune-grass",
+    "build/lune-syntect",
+]
+
+[profile.release]
+opt-level = "z"
+strip = true
+lto = true

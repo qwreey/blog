@@ -1,0 +1,27 @@
+[submodule "libs/markdown-components"]
+	path = libs/markdown-components
+	url = https://github.com/qwreey/markdown-components
+[submodule "libs/compactive-js"]
+	path = libs/compactive-js
+	url = https://github.com/qwreey/compactive-js
+[submodule "build/lune-minify-js"]
+	path = build/lune-minify-js
+	url = https://github.com/qwreey/lune-minify-js
+[submodule "build/lune-lightningcss"]
+	path = build/lune-lightningcss
+	url = https://github.com/qwreey/lune-lightningcss
+[submodule "build/lune-minify-html"]
+	path = build/lune-minify-html
+	url = https://github.com/qwreey/lune-minify-html
+[submodule "build/lune-markdown-rs"]
+	path = build/lune-markdown-rs
+	url = https://github.com/qwreey/lune-markdown-rs
+[submodule "build/parser-lua"]
+	path = build/parser-lua
+	url = https://github.com/qwreey/parser-lua
+[submodule "build/lune-grass"]
+	path = build/lune-grass
+	url = https://github.com/qwreey/lune-grass
+[submodule "build/lune-syntect"]
+	path = build/lune-syntect
+	url = https://github.com/qwreey/lune-syntect
